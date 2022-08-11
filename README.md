@@ -27,7 +27,7 @@
 - :zap: In my free time I study C# and solve problems on CodeWars.
 
 - :mailbox:How to reach me: [![HeadHunter Badge](https://img.shields.io/badge/-hh.ru-red)](https://hh.ru/applicant/resumes?hhtmFromLabel=header&hhtmFrom=resume_renewal_promo)
-- - :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail.com-red)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGLrfcJPbSBvMzwbmVpZkPdbTtxfhLcjpgZKJSWNmcNgckBkrVdwdKdwHCtjKLQWDMtLmJM)
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail.com-red)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGLrfcJPbSBvMzwbmVpZkPdbTtxfhLcjpgZKJSWNmcNgckBkrVdwdKdwHCtjKLQWDMtLmJM)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
