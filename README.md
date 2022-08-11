@@ -7,7 +7,8 @@
   </a>  
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGLrfcJPbSBvMzwbmVpZkPdbTtxfhLcjpgZKJSWNmcNgckBkrVdwdKdwHCtjKLQWDMtLmJM">
     <img src="https://img.shields.io/badge/-Gmail.com-red" alt="Gmail Badge"/>
-  </a>  
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=FilimonEnc&style=flat-square&color=blue" alt=""/>
 </div>
-<img src="https://komarev.com/ghpvc/?username=FilimonEnc&style=flat-square&color=blue" alt=""/>
+
 
