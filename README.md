@@ -22,7 +22,7 @@
 </h1>
 
 ### :man_technologist: About Me : I am C# Developer from Russia.
-### :telescope: I am developing WPF and Windows Forms applications.
+### :telescope: I am developing WPF and Windows Forms applications, API and other.
 
 - :zap: In my free time I study C# and solve problems on CodeWars.
 
